@@ -1,0 +1,88 @@
+{
+  "employees":{
+  "-NhDvjEYgSvxItEQaJKx": {
+    "productImage": "employees/m/employee-id-01.jpg",
+    "productName": "Telephone",
+    "productPrice": 15.99,
+    "shortDescription": "diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque",
+    "uid": "20e9c291"
+  },
+  "-NhDvjEbhT_Mg5cZtfna": {
+    "productImage": "employees/m/employee-id-02.jpg",
+    "productName": "Cherry",
+    "productPrice": 14.99,
+    "shortDescription": "cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat",
+    "uid": "d79b5cd5"
+  },
+  "-NhDvjEeAdJv3U-lde9X": {
+    "productImage": "employees/m/employee-id-03.jpg",
+    "productName": "Ice cream",
+    "productPrice": 15.99,
+    "shortDescription": "eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem",
+    "uid": "7640f37c"
+  },
+  "-NhDvjEjKihTlYBj4CKn": {
+    "productImage": "employees/m/employee-id-04.jpg",
+    "productName": "Globe",
+    "productPrice": 29.99,
+    "shortDescription": "ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut",
+    "uid": "281be7d5"
+  },
+  "-NhDvjEmhrG9y8bsoTZu": {
+    "productImage": "employees/m/employee-id-05.jpg",
+    "productName": "balloon",
+    "productPrice": 9.99,
+    "shortDescription": "ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut",
+    "uid": "3e30ec19"
+  },
+  "-NhDvjEqIYrk7fuEJqKH": {
+    "productImage": "employees/m/employee-id-06.jpg",
+    "productName": "Chair",
+    "productPrice": 69.99,
+    "shortDescription": "ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut",
+    "uid": "3da43546"
+  },
+  "-NhDvjEt--Xv20HGvraf": {
+    "productImage": "employees/m/employee-id-07.jpg",
+    "productName": "balloon",
+    "productPrice": 9.99,
+    "shortDescription": "ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut",
+    "uid": "5d890838"
+  },
+  "-NhDvjExHvjsIodBFJVx": {
+    "productImage": "employees/m/employee-id-08.jpg",
+    "productName": "Banana",
+    "productPrice": 2.99,
+    "shortDescription": "ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut",
+    "uid": "3b933d40"
+  },
+  "-NhDvjF0ciVRHfjZ1brz": {
+    "productImage": "employees/m/employee-id-09.jpg",
+    "productName": "Donut",
+    "productPrice": 9.99,
+    "shortDescription": "ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut",
+    "uid": "0235b53b"
+  },
+  "-NhDvjF3pyCtKGKc04LT": {
+    "productImage": "employees/m/employee-id-010.jpg",
+    "productName": "eggs",
+    "productPrice": 11.99,
+    "shortDescription": "ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut",
+    "uid": "c9a2e2a3"
+  },
+  "-NhDvjF7bjQqt1MdeFdu": {
+    "productImage": "employees/m/employee-id-011.jpg",
+    "productName": "Clock",
+    "productPrice": 12.99,
+    "shortDescription": "ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut",
+    "uid": "9460ca3a"
+  },
+  "-NhDvjFAQrqfSh8vmOTH": {
+    "productImage": "employees/m/employee-id-012.jpg",
+    "productName": "Flower",
+    "productPrice": 19.99,
+    "shortDescription": "ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut",
+    "uid": "365066a0"
+  }
+}
+}
