@@ -42,7 +42,7 @@ async function EmployeePage ({params}){
                 <div></div>
                 <div></div>
                 <div>
-                <Link className='text-2xl font-bold tracking-tight text-gray-600 place-content-end' href={`/products`}>Add to cart</Link></div>
+                <Link className='text-2xl font-bold tracking-tight text-gray-600 place-content-end' href={`/products`}>BuyNow</Link></div>
             </div>
           
           </div> 
