@@ -1,7 +1,3 @@
- 
-
- 
-import { redirect } from 'next/navigation'
 import { headers } from 'next/headers'
 import {stripe} from '@/lib/stripe'
  
@@ -15,21 +11,17 @@ async function POST(request) {
   const quantity = 1;
 
  
-   
- 
     //Create Checkout Sessions from body params.
     const checkoutSession = await stripe.checkout.sessions.create({
       mode:'payment',
       line_items: [
         {
         
-          price:price,
-          quantity: 1,
+          price,
+          quantity,
         },
       ],
-      success_url: `${headers().get(
-        'origin'
-      )}/success`,
+      success_url: `${headers().get('origin')}/success`,
       cancel_url: `${headers().get('origin')}/canceled`,
       automatic_tax: { enabled: true },
     });
