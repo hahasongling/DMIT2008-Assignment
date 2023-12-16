@@ -33,7 +33,7 @@ async function EmployeePage ({params}){
           />
           <div className='pt-6 md:p-8 text-center md:text-left space-y-4'>
           <h2 className='text-lg leading-8 text-gray-600'>Product Name: {employee.productName}</h2>
-          <h2 className='text-lg leading-8 text-gray-600'>Product Price: {employee.price}</h2> 
+          <h2 className='text-lg leading-8 text-gray-600'>Product Price: {employee.productPrice}</h2> 
           <h2 className='text-lg leading-8 text-gray-600'>Product ID: {id}</h2> 
           <h2 className='text-lg leading-8 text-gray-600'>Product Description: {employee.shortDescription}</h2> 
           <div class="grid grid-cols-3 gap-4 place-items-start ...">
