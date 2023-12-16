@@ -1,4 +1,4 @@
-function BuyNow({productPriceId}) {
+function BuyNow({productPriceId }) {
 	return (
 	<form
 	action="/api/checkout"
