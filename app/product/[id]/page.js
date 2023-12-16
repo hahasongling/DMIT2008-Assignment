@@ -2,7 +2,7 @@
  import Image from 'next/image'
  import { PageHeader } from "../../../components/header/PageHeader"
  import { getEmployees } from "@/lib/firebase/getEmployees";
-import { BuyNow } from '@/components/BuyNow';
+import { BuyNow } from '@/components/CheckoutForm';
  
 
 async function getEmployee(id) {
