@@ -5,7 +5,7 @@ import { getEmployees } from "@/lib/firebase/getEmployees";
  
 
 // Link element to create a dynamic route.
-function Card ({uid, productName, shortDescription, productImage,productPrice}){
+function Card ({uid, productName, shortDescription, productImage,price}){
   return (
       <div className="max-w-7xl bg-orange-50 py-20 mx-auto sm:flex sm:justify-center sm:items-center  sm:gap-x-12 ">
          <div className='bg-slate-100 flex flex-row ml-10 mr-10'>
@@ -18,7 +18,7 @@ function Card ({uid, productName, shortDescription, productImage,productPrice}){
 
           <div className='pt-6 md:p-8 text-center md:text-left space-y-4'>
           <Link className='text-4xl font-bold tracking-tight text-gray-900' href={`/product//${uid}`}> Product Name: {productName}</Link>
-          <h2 className='text-lg leading-8 text-gray-600'>Product Price: {productPrice}</h2> 
+          <h2 className='text-lg leading-8 text-gray-600'>Product Price: {price}</h2> 
           <h2 className='text-lg leading-8 text-gray-600'>Product ID: {uid}</h2> 
           <h2 className='text-lg leading-8 text-gray-600'>Product Description: {shortDescription}</h2> 
           
