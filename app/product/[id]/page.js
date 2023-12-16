@@ -43,7 +43,8 @@ async function EmployeePage ({params}){
                 <div></div>
                 <div></div>
                 <div>
-                <Link className='text-2xl font-bold tracking-tight text-gray-600 place-content-end' href={<BuyNow/>}>BuyNow</Link></div>
+                <BuyNow/>
+                </div>
             </div>
           
           </div> 
