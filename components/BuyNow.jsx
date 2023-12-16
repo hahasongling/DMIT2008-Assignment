@@ -1,4 +1,4 @@
-function BuyNow({productPriceId }) {
+function BuyNow({priceId }) {
 	return (
 	<form
 	action="/api/checkout"
@@ -13,7 +13,7 @@ function BuyNow({productPriceId }) {
 	<input
 	type="hidden"
 	name="price"
-	value={productPriceId}
+	value={priceId}
 	/>
 	<button
 	type="submit"
