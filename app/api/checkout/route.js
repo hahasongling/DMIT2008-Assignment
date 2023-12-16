@@ -6,8 +6,8 @@ async function POST(request) {
   console.clear()
   const body = await request.formData();
   const formData = new FormData();
-  const id = body.get("id");
-  const price = body.get("price");
+  const id = body.get("uid");
+  const price = body.get("productPrice");
   const quantity = 1;
 
  
