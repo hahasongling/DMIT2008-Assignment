@@ -2,6 +2,7 @@
  import Image from 'next/image'
  import { PageHeader } from "../../../components/header/PageHeader"
  import { getEmployees } from "@/lib/firebase/getEmployees";
+import { BuyNow } from '@/components/BuyNow';
  
 
 async function getEmployee(id) {
@@ -42,7 +43,7 @@ async function EmployeePage ({params}){
                 <div></div>
                 <div></div>
                 <div>
-                <Link className='text-2xl font-bold tracking-tight text-gray-600 place-content-end' href={`/products`}>BuyNow</Link></div>
+                <Link className='text-2xl font-bold tracking-tight text-gray-600 place-content-end' href={<BuyNow/>}>BuyNow</Link></div>
             </div>
           
           </div> 
