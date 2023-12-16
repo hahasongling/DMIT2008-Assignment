@@ -25,7 +25,7 @@ function Card ({uid, productName, shortDescription, productImage,productPrice}){
           <div class="grid grid-cols-3 gap-4 place-items-start ...">
                 <div></div>
                 <div></div>
-                <div></div>
+                <div><BuyNow/></div>
                 <div></div>
                 <div></div>
                 <div>
