@@ -16,8 +16,8 @@ async function POST(request) {
       mode:'payment',
       line_items: [
         {
-          price,
-          quantity,
+          price:price,
+          quantity: 1,
         },
       ],
       success_url: `${headers().get('origin')}/success`,
