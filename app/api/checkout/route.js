@@ -16,7 +16,6 @@ async function POST(request) {
       mode:'payment',
       line_items: [
         {
-        
           price,
           quantity,
         },
